@@ -7,4 +7,4 @@ Intro to notebook based computing for the aap course. Includes
 * Netflix and notebooks
 * the future of notebook computing?
 
-Git works?
+Git works?I like to type things by hand
